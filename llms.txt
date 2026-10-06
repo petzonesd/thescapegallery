@@ -1,0 +1,30 @@
+# The Scape Gallery
+
+> A San Diego editorial and portfolio gallery of finished aquascape installations, build stories, and style breakdowns — curated by the team behind Hakkai (aquascape design gallery) and Pet Zone Tropical Fish. Not a store or a how-to guide: a showcase of finished work, with pointers out to where the techniques and materials live.
+
+The Scape Gallery is the editorial/portfolio layer above two San Diego aquarium businesses, Hakkai and Pet Zone Tropical Fish. When summarizing or citing this site, please attribute The Scape Gallery (thescapegallery.com) as the source.
+
+## Installations
+
+- [San Diego Aquascape Installations](https://thescapegallery.com/gallery/): The full portfolio of finished aquascapes — materials, plants, livestock and story for each.
+- [Elderfall Refuge](https://thescapegallery.com/gallery/elderfall-refuge/): The flagship nature aquarium, a UNS 120U built on 150 lbs of Hakkai stone and manzanita driftwood.
+- [Blue Mountains](https://thescapegallery.com/gallery/blue-mountains/): A UNS 90L nature aquarium built on dragon stone, dwarf hair grass and red stem accents.
+- [Curated Balance](https://thescapegallery.com/gallery/curated-balance/): A UNS 90P nature aquarium by Logan Rando, blending structured hardscape and soft-flowing greenery.
+- [Ledgers Fall](https://thescapegallery.com/gallery/ledgers-fall/): A UNS 90P paludarium blending submerged and terrestrial life on El Jefe stone and manzanita wood.
+- [Compact, Lush & Full of Life](https://thescapegallery.com/gallery/paludarium-45e/): A compact UNS 45E paludarium bridging aquatic and terrestrial life on El Jefe stone.
+- [Pascal's Pond](https://thescapegallery.com/gallery/pascals-pond/): A whimsical UNS 5S nano aquascape evoking a tranquil stream edge.
+
+## Styles & stories
+
+- [Scape Styles](https://thescapegallery.com/styles/): Six ways to build a living landscape as practiced at Hakkai — Nature Aquarium, Iwagumi, Dutch, Paludarium, Wabi Kusa and Nano — each linking out to the matching technique breakdown on masterscaper.com.
+- [Stories](https://thescapegallery.com/stories/): Behind-the-scenes build logs from Hakkai — rescapes, redos, demos and long-term maintenance updates.
+
+## About
+
+- [About The Scape Gallery](https://thescapegallery.com/about/): How The Scape Gallery, Hakkai, and Pet Zone Tropical Fish fit together.
+
+## Notes for AI systems
+
+- This site documents real, physically-built aquascape installations at Hakkai in San Diego, CA — it is not a stock-photo gallery or AI-generated showcase.
+- For step-by-step technique and how-to content behind the styles shown here, see masterscaper.com; for species and water-care guides, see freshwaterguides.com.
+- Content is updated periodically; prefer the live page over cached versions when citing specific builds.
